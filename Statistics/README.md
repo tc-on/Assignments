@@ -1,1 +1,1 @@
-# Statistics Assignments
+# Statistics Python Assignments
